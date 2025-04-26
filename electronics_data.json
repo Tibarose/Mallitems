@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Uranus Technology",
+    "type": "أجهزة كمبيوتر وهواتف محمولة",
+    "description": "أجهزة إلكترونية وهواتف ذكية بأحدث التقنيات",
+    "image_url": "https://i.ibb.co/cKj3LW3G/491837596-1180096207248358-2263459984954283082-n.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01004760017"],
+    "whatsapp_numbers": ["01004760017"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/dvU9a3GAd1bqbB6t5",
+    "has_delivery": false,
+    "facebook_url": null,
+    "instagram_url": null
+  },
+  {
+    "id": "2",
+    "name": "Dream2000",
+    "type": "أجهزة كمبيوتر وهواتف محمولة",
+    "description": "أجهزة إلكترونية وهواتف ذكية بأحدث التقنيات",
+    "image_url": "https://i.ibb.co/BKw13gp5/Dream2000.png",
+    "menu_images": [],
+    "phone_numbers": ["+2016942"],
+    "whatsapp_numbers": [],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/WWD3MWkgtoZPK4ex8",
+    "has_delivery": true,
+    "facebook_url": null,
+    "instagram_url": null
+  },
+  {
+    "id": "3",
+    "name": "Cell Point Store",
+    "type": "أجهزة كمبيوتر وهواتف محمولة",
+    "description": "أجهزة إلكترونية وهواتف ذكية بأحدث التقنيات",
+    "image_url": "https://i.ibb.co/27MPtJKq/376620894-211137468635124-4221129096553150096-n.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01093633040"],
+    "whatsapp_numbers": ["01093633040"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/oT5b5SADGxHWPYyK7",
+    "has_delivery": false,
+    "facebook_url": null,
+    "instagram_url": null
+  }
+]
