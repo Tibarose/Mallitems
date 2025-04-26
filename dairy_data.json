@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "ب لبن إسكندريه",
+    "type": "منتجات الألبان",
+    "description": "تشكيله من الألبان الطازجه والمنتجات المشتقه",
+    "image_url": "https://i.ibb.co/chRvV63t/Screenshot-2025-04-26-132121.png",
+    "menu_images": [],
+    "phone_numbers": ["01016059656"],
+    "whatsapp_numbers": ["01016059656"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/kuUqzRW7gcR1Y9if8",
+    "has_delivery": true,
+    "facebook_url": "",
+    "instagram_url": ""
+  }
+]
