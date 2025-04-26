@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Best Clean",
+    "type": "مغاسل الملابس",
+    "description": "خدمات تنظيف وكي الملابس بسرعه وكفاءه",
+    "image_url": "https://i.ibb.co/v6Z81gm8/images-6.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01060211117"],
+    "whatsapp_numbers": ["201060211117"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/dTBV1fU7wgebpVmU8",
+    "has_delivery": true,
+    "facebook_url": null,
+    "instagram_url": null
+  }
+]
