@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "نصر الدين",
+    "type": "العطاره والتسالي",
+    "description": "مجموعة واسعة من المحمصات والتسالى",
+    "image_url": "https://i.ibb.co/j9PHJs5j/473821823-122107441634720439-4576697862852586906-n.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01010397354", "01026120295"],
+    "whatsapp_numbers": [],
+    "location": "المول - بجوار البنك الاهلى",
+    "location_url": "https://maps.app.goo.gl/sNfKfjTbnHyA258T9",
+    "has_delivery": true,
+    "facebook_url": "",
+    "instagram_url": ""
+  },
+  {
+    "id": "2",
+    "name": "حاج عرفه",
+    "type": "العطاره والتسالي",
+    "description": "منتجات العطاره والمكسرات والتسالي بجوده عاليه",
+    "image_url": "https://i.ibb.co/Kz9Xcjtv/438081463-845113097657772-3046770944425390391-n.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01020401400"],
+    "whatsapp_numbers": ["201020401400"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/zExFCKg9KHjZ2PHH7",
+    "has_delivery": true,
+    "facebook_url": "",
+    "instagram_url": ""
+  },
+  {
+    "id": "3",
+    "name": "بوابة دمشق",
+    "type": "العطاره والتسالي",
+    "description": "منتجات العطاره والمكسرات والتسالي بجوده عاليه",
+    "image_url": "https://i.ibb.co/fGpV4QKt/468212797-122205596126033766-9025895536000666202-n.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01114113331"],
+    "whatsapp_numbers": ["201114113331"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/CjNDWFpRD4MAByHw6",
+    "has_delivery": true,
+    "facebook_url": "",
+    "instagram_url": ""
+  }
+]
