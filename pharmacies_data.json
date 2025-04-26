@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "صيدليه المتحده",
+    "type": "صيدليه",
+    "description": "صيدليات توفر الأدوية والمنتجات الصحية",
+    "image_url": "https://i.ibb.co/Rp3GtDqw/2024-06-08.webp",
+    "menu_images": [],
+    "phone_numbers": ["01012255595", "01112343212"],
+    "whatsapp_numbers": ["201012255595"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/iZE4mg5m8rzESEVCA",
+    "has_delivery": true,
+    "facebook_url": "https://www.facebook.com/zadbakery1/",
+    "instagram_url": "https://www.instagram.com/zadbakery"
+  },
+  {
+    "id": "2",
+    "name": "صيدليه فارماسيا",
+    "type": "صيدليه",
+    "description": "صيدليات توفر الأدوية والمنتجات الصحية",
+    "image_url": "https://i.ibb.co/vCscR7zM/download.jpg",
+    "menu_images": [],
+    "phone_numbers": ["01050505677", "01120162015", "01211117206"],
+    "whatsapp_numbers": ["201120162015"],
+    "location": "المول",
+    "location_url": "https://maps.app.goo.gl/SJS2qSmkswG6Kqky7",
+    "has_delivery": true,
+    "facebook_url": null,
+    "instagram_url": null
+  }
+]
